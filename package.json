@@ -1,0 +1,12 @@
+{
+  "name": "backend_development",
+  "version": "1.0.0",
+  "description": "This is a project to understand Backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "Riya Jain",
+  "license": "ISC"
+}
